@@ -1,29 +1,31 @@
-# Darren Lieu — Power Systems Engineer × AI Automation Builder
+# Darren Lieu — AI Automation Builder
 
-I build offline-first desktop tools and AI-agent systems that do real work: capture, read, and automate what's on your screen.
+I build AI automation and agent systems that do real work: capture, read, decide, and act — on your screen, on your phone, in your workflows.
 
-## Flagship
+## Flagship builds (live)
 
-**[OCR Automation](https://github.com/DarthSandD/ocr-automation)** — offline Windows utility (C# / WPF / Tesseract)
-- Capture any window or region, extract text at 90% confidence
-- Import PDF at 150–600 DPI with page navigation — raster detail fit for AutoCAD / MicroStation
-- Row-arrange notepad, one-click raster export, rule-based automation
-- No install, no admin, no network — verified offline by code scan
+**[Omni Eyes View](https://darthsandd.github.io/gods-eye-view/)** — open-source real-time 3D earth-intelligence console (Cesium globe, aircraft / ships / seismic layers, voice control)
+
+**[VoltWorks Power](https://darthsandd.github.io/darrentools/)** — free browser toolkit that automates power-engineering calcs: voltage drop, cable + transformer sizing, fault levels, single-line diagrams
+
+**[OCR Automation](https://github.com/DarthSandD/ocr-automation)** — offline Windows utility (C# / WPF / Tesseract): capture any window, extract text at 90% confidence, PDF import at 150–600 DPI, rule-based automation. No install, no admin, no network.
+
+**JARVIS** — voice-first personal AI assistant for Android (Kotlin, Material 3)
 
 ## What I work with
 
-`C# / .NET 8 / WPF` · `Kotlin / Android` · `Python` · `Tesseract OCR` · `Pdfium` · `OpenCV` · `AI agents (Hermes)`
+`Python` · `Kotlin / Android` · `JavaScript` · `C# / .NET 8 / WPF` · `AI agents (Hermes)` · `RAG + LLM APIs` · `Tesseract OCR` · `OpenCV`
 
 ## Currently
 
-- Shipping OCR Automation (v2.2.0, [latest release](https://github.com/DarthSandD/ocr-automation/releases/latest))
-- Building JARVIS — voice-first personal AI assistant for Android
+- Shipping OCR Automation (v2.2.0) and JARVIS side by side
 - Running a fleet of free-model AI worker bots with manager-level QC
 - Daily builds in public on Instagram: **[@darren.lin_ai](https://www.instagram.com/darren.lin_ai)**
 
 ## Contact
 
 - GitHub: [@DarthSandD](https://github.com/DarthSandD)
-- Instagram: [@darren.lin_ai](https://www.instagram.com/darren.lin_ai) (AI builds) · [@darren_lin111](https://www.instagram.com/darren_lin111) (badminton)
+- Instagram: [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)
+- LinkedIn: [Tri Adi Setiawan](https://www.linkedin.com/in/tri-adi-setiawan-41b9131b5)
 
-_Open to remote collaborations on desktop automation, OCR pipelines, and AI-agent systems._
+_Open to remote AI automation roles and collaborations — worldwide._
