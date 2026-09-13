@@ -2,6 +2,8 @@
 
 I build AI automation and agent systems that do real work: capture, read, decide, and act — on your screen, on your phone, in your workflows.
 
+🌐 **[darrenlin.pages.dev](https://darrenlin.pages.dev/)** — services, project showcases, and contact.
+
 ## Flagship builds (live)
 
 **[Omni Eyes View](https://darthsandd.github.io/gods-eye-view/)** — open-source real-time 3D earth-intelligence console (Cesium globe, aircraft / ships / seismic layers, voice control)
