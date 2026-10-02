@@ -35,12 +35,14 @@ Not demos. Not wrappers. Shipped systems: a live earth-intelligence globe stream
 - Rule-based automation pipeline
 - `C#` · `.NET 8` · `WPF` · `Tesseract`
 
-### 🏗️ [MEP Building Services Suite](https://darthsandd.github.io/mep-engineering-suite/) &nbsp;·&nbsp; [toolkit](https://darthsandd.github.io/mep-toolkit/)
-> Interactive mechanical / electrical / plumbing calculators with live recalculation and SLD generation
+### 🏗️ [MEP Toolkit](https://darthsandd.github.io/mep-toolkit/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/mep-toolkit)
+> Six free building-services calculators that run 100% in your browser — HVAC, electrical, plumbing, voltage drop, lighting, ventilation
 
-- Two editions: full engineering suite + a zero-install browser toolkit
-- Live recalculation as you type — no submit button
-- `HTML` · `JavaScript`
+- **Live recalculation** — results update as you type or drag, no submit button
+- Real formulas: Hazen-Williams friction, Hunter-curve fixture units, cable/breaker tables, lumen method
+- **Inspectable math** — each calculator ships with its Python reference implementation
+- One file, zero dependencies, works offline on site
+- `HTML` · `JavaScript` · `Python`
 
 ### 🤖 [Darren AI](https://darthsandd.github.io/darren-ai/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/darren-ai)
 > Zero-shot AI-text detector with a detector-feedback humanizer — web, desktop, and Android
