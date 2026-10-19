@@ -1,8 +1,10 @@
-# Darren Lieu — AI Automation Builder
+# Tri Adi S. (Darren Lieu) — AI Architect · CEO, Darren Labs
 
-I build **AI automation and agent systems that do real work** — capture, read, decide, act. On your screen, on your phone, in your workflows.
+I'm **Tri Adi S.** — I work as **Darren Lieu**. I'm a CEO on the path to becoming an AI architect, and I run **Darren Labs**, an agentic AI studio that publishes every app it builds.
 
-Not demos. Not wrappers. Shipped systems: a live earth-intelligence globe streaming real aircraft and CCTV, an offline OCR engine, power-engineering calculators, a voice-first Android assistant, and a fleet of AI workers that run my own operations.
+My work is **AI automation that removes repetitive power-system CAD work** — capture, read, decide, act — so engineers spend their time on engineering, not on repeat drafting. I set direction and priorities; a fleet of AI agents owns execution, sequencing, and verification. What ships is real, working software: a live earth-intelligence globe streaming real aircraft and CCTV, an offline OCR engine, power-engineering calculators, a voice-first Android assistant, and AI workers that run my own operations.
+
+**Flagships:** [VoltWorks Power](https://darthsandd.github.io/voltworks-power/) (applied engineering) + [AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns) (architect thinking).
 
 **🌐 Portfolio → [darrenlin.pages.dev](https://darrenlin.pages.dev/)**  ·  **📸 Daily builds → [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)**
 
@@ -132,10 +134,11 @@ I run a **24/7 AI agent fleet** on free and open models — orchestrator, worker
 
 ## 🎯 Currently
 
+- Building **Darren Labs** — an umbrella agentic AI studio that publishes every app it builds
+- Flagships: **[VoltWorks Power](https://darthsandd.github.io/voltworks-power/)** (applied engineering) + **[AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns)** (architect thinking)
 - Running a 24/7 AI worker fleet with manager-level QC
-- Building **[ai-architecture-patterns](https://github.com/DarthSandD/ai-architecture-patterns)** — proving system design, not just code
+- **Becoming an AI architect** — systems, tradeoffs, and architectural decisions
 - Shipping daily builds in public on Instagram
-- **Studying toward AI architect** — systems, tradeoffs, and architectural decisions
 
 ---
 
