@@ -76,14 +76,6 @@ A small formatter for Universitas Terbuka students: paste a tuton discussion or 
 
 `Python` · `Render`
 
-### [JARVIS](https://github.com/DarthSandD/jarvis-apk)
-
-![JARVIS banner](https://raw.githubusercontent.com/DarthSandD/DarthSandD/main/assets/jarvis-banner.png)
-
-A voice-first AI assistant for Android with a HUD-style interface and pluggable AI providers, from cloud APIs to a local gateway. Built for my own phone first.
-
-`Kotlin` · `Material 3`
-
 ### [Signal Desk](https://darthsandd.github.io/signal-desk/) · [source](https://github.com/DarthSandD/signal-desk)
 
 <img src="https://darthsandd.github.io/signal-desk/icon-512.png" width="72" alt="Signal Desk icon">
