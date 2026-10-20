@@ -1,153 +1,150 @@
-# Tri Adi S. (Darren Lieu) — AI Architect · CEO, Darren Labs
+# Tri Adi S. (Darren Lieu): CEO, Darren Labs · AI architect in progress
 
-I'm **Tri Adi S.** — I work as **Darren Lieu**. I'm a CEO on the path to becoming an AI architect, and I run **Darren Labs**, an agentic AI studio that publishes every app it builds.
+I'm Tri Adi S. I work as Darren Lieu. I run **Darren Labs**, an agentic AI studio in Indonesia, and I'm on the path to becoming an AI architect.
 
-My work is **AI automation that removes repetitive power-system CAD work** — capture, read, decide, act — so engineers spend their time on engineering, not on repeat drafting. I set direction and priorities; a fleet of AI agents owns execution, sequencing, and verification. What ships is real, working software: a live earth-intelligence globe streaming real aircraft and CCTV, an offline OCR engine, power-engineering calculators, a voice-first Android assistant, and AI workers that run my own operations.
+Most of my work starts from one annoyance: engineers losing hours to repetitive power-system CAD and calculation work. So I build tools that capture, read, decide, and act, and I publish every app the studio finishes. I set the direction and the priorities. A fleet of AI agents does the execution, and nothing ships until it has been checked working.
 
-**Flagships:** [VoltWorks Power](https://darthsandd.github.io/voltworks-power/) (applied engineering) + [AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns) (architect thinking).
-
-**🌐 Portfolio → [darrenlin.pages.dev](https://darrenlin.pages.dev/)**  ·  **📸 Daily builds → [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)**
+**Company site:** [Darren Labs](https://darthsandd.github.io/darren-labs-site/) · **LinkedIn:** [Darren Labs](https://www.linkedin.com/company/darren-labs/) · **Daily builds:** [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)
 
 ---
 
-## 🚀 Flagship — Live apps you can open right now
+## Darren Labs
 
-### 🌍 [Omni Eyes View](https://darthsandd.github.io/omni-eyes-view/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/omni-eyes-view)
-> Real-time 3D earth-intelligence console — a Cesium globe with **live** aircraft, vessels, satellites, wildfires, and **streaming CCTV**
+![Darren Labs banner](https://darthsandd.github.io/darren-labs-site/docs/assets/darren-labs-banner.png)
 
-- 15+ open-data feeds wired with zero backend cost
-- **Live public CCTV cameras** across Indonesian cities, playing HLS inside the globe
-- Browser-native voice agent — speak a place, the globe flies there
-- Ships identical builds to two hosts; full test suite green
-- `JavaScript` · `Cesium` · `Vite` · `HLS.js` · `Cloudflare Workers`
-
-### ⚡ [VoltWorks Power](https://darthsandd.github.io/voltworks-power/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/voltworks-power)
-> Browser toolkit that automates power-engineering calculations — the electrical engineer's daily driver
-
-- Voltage drop, cable sizing, transformer sizing, fault levels, arc-flash (IEEE 1584)
-- **Interactive single-line diagrams** with persistence
-- Zero install, zero backend, works offline
-- `HTML` · `JavaScript`
-
-### 🔍 [OCR Automation](https://github.com/DarthSandD/ocr-automation)
-> Offline Windows capture-to-text engine — no install, no admin, no network
-
-- Capture any window or region, extract text at **90% confidence**
-- PDF import at **150–600 DPI**, row-arranged output
-- Rule-based automation pipeline
-- `C#` · `.NET 8` · `WPF` · `Tesseract`
-
-### 🏗️ [MEP Toolkit](https://darthsandd.github.io/mep-toolkit/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/mep-toolkit)
-> Six free building-services calculators that run 100% in your browser
-
-- **Live recalculation** — results update as you type or drag, no submit button
-- HVAC cooling load + duct, electrical, plumbing, voltage drop, lighting, ventilation
-- Real formulas: Hazen-Williams friction, Hunter-curve fixture units, cable/breaker tables, lumen method
-- One file, zero dependencies, works offline on site
-- `HTML` · `JavaScript` · `Python`
-
-### 🤖 [Darren AI](https://darthsandd.github.io/darren-ai/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/darren-ai)
-> Zero-shot AI-text detector with a detector-feedback humanizer — web, desktop, and Android
-
-- LAPD-based detection with feedback-loop rewriting and a meaning-preservation gate
-- Three platforms from one core
-- `Python`
-
-### 📡 [Signal Desk](https://darthsandd.github.io/signal-desk/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/signal-desk)
-> Live forex, crypto and stock signals with clear BUY/SELL calls — decision-first, not indicator-first
-
-- Installable PWA, dark-first UI, works on mobile
-- Plain-language signals instead of chart archaeology
-- `HTML` · `JavaScript`
+The studio site itself is a product: an interactive 3D office you can walk through in the browser, built with real licensed 3D models, plus a working contact form. Everything below shipped from this studio.
 
 ---
 
-## 📚 Reference guides — free, single-file, no signup
+## Flagships
 
-### 🧊 [Autodesk Inventor Complete Guide](https://darthsandd.github.io/inventor-guide/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/inventor-guide)
-> 225 topics from your first sketch to advanced assembly, sheet metal, surfaces and iLogic — each with a curated tutorial clip
+### [Omni Eyes](https://darthsandd.github.io/omni-eyes-view/) · [source](https://github.com/DarthSandD/omni-eyes-view)
 
-- **Assembly gets the deepest coverage** — constraints, every joint type, iMates, component patterns, BOM, adaptive parts, skeleton & top-down, frame generator, weldments
-- Every topic tagged **Basic / Intermediate / Advanced** (78 / 58 / 89)
-- 224 of 225 clips verified live; the one without says "no clip" rather than playing the wrong video
-- `HTML` · `Python`
+<img src="https://darthsandd.github.io/omni-eyes-view/logo.svg" width="72" alt="Omni Eyes logo">
 
-### 📐 [AutoCAD Hotkey & Command Guide](https://darthsandd.github.io/autocad-guide/) &nbsp;·&nbsp; [source](https://github.com/DarthSandD/autocad-guide)
-> 126 commands across 8 categories, with the hotkey and a clip that starts at the exact second it's explained
+A real-time earth-intelligence globe built on Cesium. Live aircraft, vessels, satellites, and fire data on one map, extended from the open-source God's Eye viewer with live public CCTV cameras from Indonesian cities, streamed as HLS inside the globe.
 
-- Search by command, hotkey, or plain intent ("offset", "O", "space between walls")
-- Every video link checked by hand
-- `HTML`
+`JavaScript` · `Cesium` · `Vite` · `HLS.js` · `Cloudflare Workers`
 
----
+### [VoltWorks Power](https://darthsandd.github.io/voltworks-power/) · [source](https://github.com/DarthSandD/voltworks-power)
 
-## 🧰 More builds
+![VoltWorks Power cover](https://darthsandd.github.io/voltworks-power/cover.png)
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[JARVIS](https://github.com/DarthSandD/jarvis-apk)** | Voice-first Android AI assistant — JARVIS-style HUD, pluggable providers | `Kotlin` · `Material 3` |
-| **[JARVIS FSA](https://github.com/DarthSandD/jarvis-fsa)** | Agent-loop build — observes, decides, executes through a Termux shell bridge | `Kotlin` |
-| **[Omniscient](https://github.com/DarthSandD/omniscient)** | Voice-first Android assistant, 15 device tools, live command terminal | `Kotlin` |
-| **[Noor Qur'an](https://github.com/DarthSandD/noor-quran)** | Complete Qur'an app — offline text, tafsir, qiblah, murottal player | `Flutter` |
-| **[Alcyone](https://github.com/DarthSandD/alcyone)** | Native Android shell for Multica — splash, fullscreen, pull-to-refresh | `Dart` |
-| **[Moodle OS](https://github.com/DarthSandD/moodle-os)** | macOS-style Electron desktop shell for Universitas Terbuka Moodle | `JavaScript` · `Electron` |
-| **[Docs Desktop Mobile](https://github.com/DarthSandD/docs-desktop-mobile)** | Desktop-class document editor for Android — real 8.5×11 layout, inch ruler | `JavaScript` |
-| **[MEP Engineering Suite](https://darthsandd.github.io/mep-engineering-suite/)** | Interactive engineering calculators with live recalculation + SLD Builder | `HTML` |
-| **[OneShot Power Calc](https://github.com/DarthSandD/oneshot-power-calc)** | One-shot power-system calculation CLI — short circuit, voltage drop, transformer sizing | `Python` |
-| **[AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns)** | Visual design library for AI systems — diagrams, tradeoffs, runnable demos | `HTML` |
-| **[Fleet School](https://github.com/DarthSandD/darren-llc-fleet-school)** | Free AI fleet builds — scripts, voiceovers, cards, checklists | — |
-| **[DARREN LLC Skills](https://github.com/DarthSandD/darren-llc-skills)** | 45 agent skills: content fleet, ship & deploy, bot company | — |
+The electrical engineer's daily driver, in a browser tab. Voltage drop, cable sizing, transformer sizing, fault levels, and arc-flash to IEEE 1584, plus interactive single-line diagrams that save your work. No install, no backend, works offline.
+
+`HTML` · `JavaScript`
+
+### [MEP Suits](https://darthsandd.github.io/mep-suits/) · [source](https://github.com/DarthSandD/mep-suits)
+
+![MEP Suits banner](https://darthsandd.github.io/mep-suits/docs/assets/mep-suits-banner.png)
+
+Eight building-services calculators (HVAC, duct, electrical, plumbing, and more) with live recalculation as you type, and a 3D system viewer with real equipment models where you can switch components and watch the system change. One page, no signup, works on site.
+
+`HTML` · `JavaScript`
 
 ---
 
-## 🌐 Also live on Cloudflare
+## More Darren Labs products
 
-| Site | What it is |
-|---|---|
-| **[darrenlin.pages.dev](https://darrenlin.pages.dev/)** | Portfolio & services |
-| **[omnieyes.pages.dev](https://omnieyes.pages.dev/)** | Omni Eyes View — primary deployment |
-| **[kalimantan-aqi.pages.dev](https://kalimantan-aqi.pages.dev/)** | Kalimantan air-quality monitor |
+### Saku: QRIS finance app (private beta)
+
+![Saku banner](https://raw.githubusercontent.com/DarthSandD/DarthSandD/main/assets/saku-banner.png)
+
+A salary-first finance app for Android, in Bahasa Indonesia. Scan a QRIS code to check and record a payment before you make it, split your salary into buckets that must add up, and turn on Strict Mode when a bucket goes over its limit. Offline first, with optional Supabase sync. Handoff to your bank or wallet app is always a tap you confirm, never automatic.
+
+`Flutter` · `Dart` · `Supabase` · `Hive`
+
+### [Hermes Switzerland](https://switzerland-backend.onrender.com/)
+
+![Hermes Switzerland banner](https://raw.githubusercontent.com/DarthSandD/DarthSandD/main/assets/hermes-switzerland-banner.png)
+
+A virtual company you can open in the browser: buildings, rooms, and AI workers sending heartbeats into an interactive 3D scene, backed by a FastAPI service on Render. It started as an experiment in running a company made of agents, and it is still the best demo of how Darren Labs works inside.
+
+`Python` · `FastAPI` · `Three.js` · `Render`
+
+### [Agent Org Fleet](https://github.com/DarthSandD/agent-org-fleet)
+
+![Agent org chart](https://raw.githubusercontent.com/DarthSandD/agent-org-fleet/main/docs/assets/org-chart.png)
+
+The org chart behind the studio: 115 titled agent roles on a seniority ladder, each with its own written instructions, matched skills, and a reporting line. Public, so anyone can study how a one-person company staffs itself with agents.
+
+### UT Tuton Generator: [live tool](https://ut-tuton-generator.onrender.com/)
+
+![UT Tuton Generator banner](https://raw.githubusercontent.com/DarthSandD/DarthSandD/main/assets/ut-tuton-banner.png)
+
+A small formatter for Universitas Terbuka students: paste a tuton discussion or assignment draft, get it back clean and ready to post. Built because I am one of those students.
+
+`Python` · `Render`
+
+### [JARVIS](https://github.com/DarthSandD/jarvis-apk)
+
+![JARVIS banner](https://raw.githubusercontent.com/DarthSandD/DarthSandD/main/assets/jarvis-banner.png)
+
+A voice-first AI assistant for Android with a HUD-style interface and pluggable AI providers, from cloud APIs to a local gateway. Built for my own phone first.
+
+`Kotlin` · `Material 3`
+
+### [Signal Desk](https://darthsandd.github.io/signal-desk/) · [source](https://github.com/DarthSandD/signal-desk)
+
+<img src="https://darthsandd.github.io/signal-desk/icon-512.png" width="72" alt="Signal Desk icon">
+
+Live forex, crypto, and stock signals with plain BUY/SELL calls instead of chart archaeology. An installable PWA with a dark-first UI.
+
+`HTML` · `JavaScript`
 
 ---
 
-## ⚙️ How I build
+## How I think about systems
 
-**The constraint that shapes everything: ship real systems at near-zero cost.**
+### [AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns)
 
-I run a **24/7 AI agent fleet** on free and open models — orchestrator, workers, QC review — using it to build and operate my own products. When a paid API isn't needed, it isn't used. That's an architectural decision, not a budget workaround: it forces clean separation between the agent layer, the data layer, and the delivery layer.
+![Context engineering diagram](https://raw.githubusercontent.com/DarthSandD/ai-architecture-patterns/master/assets/context-engineering-diagram.png)
 
-**Architecture notes** — I write up the *why*, not just the *what*:
-- Free-tier-only live-data pipelines (15+ feeds, no backend)
-- Voice agents that never leave the browser
-- Identical-build deploy discipline across two hosts
-- Data pipelines that verify every external link before it ships
+A visual library for how AI systems fit together: diagrams, tradeoffs, runnable demos, and the part most write-ups skip, when not to use each pattern. This is my study notebook for becoming an AI architect, kept in public.
 
 ---
 
-## 🛠 Stack
+## Free reference guides
 
-`Python` · `Kotlin / Android` · `JavaScript / TypeScript` · `C# / .NET 8 / WPF` · `HTML / CSS` · `Flutter / Dart`
-`Cesium` · `Vite` · `Cloudflare Workers & Pages` · `Electron`
-`AI agents & orchestration` · `RAG + LLM APIs` · `Tesseract OCR` · `OpenCV` · `HLS streaming`
+### [AutoCAD Hotkey and Command Guide](https://darthsandd.github.io/autocad-guide/) · [source](https://github.com/DarthSandD/autocad-guide)
 
----
+![AutoCAD guide slide](https://raw.githubusercontent.com/DarthSandD/autocad-guide/main/instagram/_stage/slide-1.png)
 
-## 🎯 Currently
+90+ commands across 8 categories. Search by command, hotkey, or plain intent, and each clip starts at the exact second the command is explained.
 
-- Building **Darren Labs** — an umbrella agentic AI studio that publishes every app it builds
-- Flagships: **[VoltWorks Power](https://darthsandd.github.io/voltworks-power/)** (applied engineering) + **[AI Architecture Patterns](https://github.com/DarthSandD/ai-architecture-patterns)** (architect thinking)
-- Running a 24/7 AI worker fleet with manager-level QC
-- **Becoming an AI architect** — systems, tradeoffs, and architectural decisions
-- Shipping daily builds in public on Instagram
+### [Autodesk Inventor Complete Guide](https://darthsandd.github.io/inventor-guide/) · [source](https://github.com/DarthSandD/inventor-guide)
+
+![Inventor guide screenshot](https://darthsandd.github.io/inventor-guide/linkedin/shots/crop-desktop.png)
+
+Inventor from first sketch to assemblies, sheet metal, and iLogic, in one searchable page. Every topic is tagged by level and carries a tutorial clip.
 
 ---
 
-## 📬 Contact
+## How I work
+
+- I decide what gets built and in what order. Agents write, test, and check the work. I review the result before it goes out.
+- If something cannot be verified, it does not get claimed. A green build and a screenshot beat a confident sentence.
+- I prefer free and open infrastructure when it genuinely does the job. Low running cost is a design choice: it keeps every product alive without a funding round.
+- Code goes to GitHub. Live state gets backed up outside any single machine.
+
+## Stack I actually use
+
+`Python` · `JavaScript / TypeScript` · `Flutter / Dart` · `Kotlin` · `HTML / CSS`
+`FastAPI` · `Three.js` · `Cesium` · `Supabase` · `Cloudflare Workers` · `GitHub Pages` · `Render`
+`AI agent orchestration` · `LLM APIs` · `HLS streaming`
+
+## Currently
+
+- Shipping Saku v2.3.x and hardening it on a real phone (mine)
+- Growing Darren Labs from a one-person studio with an agent fleet into a real company
+- Studying AI architecture in public, one pattern at a time
+
+## Contact
 
 **GitHub** · [@DarthSandD](https://github.com/DarthSandD)
-**Portfolio** · [darrenlin.pages.dev](https://darrenlin.pages.dev/)
+**Company** · [Darren Labs on LinkedIn](https://www.linkedin.com/company/darren-labs/)
+**LinkedIn** · [Tri Adi S.](https://www.linkedin.com/in/tri-adi-setiawan-41b9131b5)
 **Instagram** · [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)
-**LinkedIn** · [Tri Adi Setiawan](https://www.linkedin.com/in/tri-adi-setiawan-41b9131b5)
 **Email** · [darren111@gmail.com](mailto:darren111@gmail.com)
 
-> *Open to remote AI automation roles and collaborations — worldwide.*
+Open to remote AI automation roles and collaborations, worldwide.
