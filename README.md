@@ -4,13 +4,13 @@ I'm Tri Adi S. I work as Darren Lieu. I run **Darren Labs**, an agentic AI studi
 
 Most of my work starts from one annoyance: engineers losing hours to repetitive power-system CAD and calculation work. So I build tools that capture, read, decide, and act, and I publish every app the studio finishes. I set the direction and the priorities. A fleet of AI agents does the execution, and nothing ships until it has been checked working.
 
-**Company site:** [Darren Labs](https://darthsandd.github.io/darren-labs-site/) · **LinkedIn:** [Darren Labs](https://www.linkedin.com/company/darren-labs/) · **Daily builds:** [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)
+**Company site:** [Darren Labs](https://darrenlabs.pages.dev/) · **LinkedIn:** [Darren Labs](https://www.linkedin.com/company/darren-labs/) · **Daily builds:** [@darren.lin_ai](https://www.instagram.com/darren.lin_ai)
 
 ---
 
 ## Darren Labs
 
-![Darren Labs banner](https://darthsandd.github.io/darren-labs-site/docs/assets/darren-labs-banner.png)
+![Darren Labs banner](https://darrenlabs.pages.dev/docs/assets/darren-labs-banner.png)
 
 The studio site itself is a product: an interactive 3D office you can walk through in the browser, built with real licensed 3D models, plus a working contact form. Everything below shipped from this studio.
 
@@ -18,25 +18,25 @@ The studio site itself is a product: an interactive 3D office you can walk throu
 
 ## Flagships
 
-### [Omni Eyes](https://darthsandd.github.io/omni-eyes-view/) · [source](https://github.com/DarthSandD/omni-eyes-view)
+### [Omni Eyes](https://omnieyes.pages.dev/) · [source](https://github.com/DarthSandD/omni-eyes-view)
 
-<img src="https://darthsandd.github.io/omni-eyes-view/logo.svg" width="72" alt="Omni Eyes logo">
+<img src="https://omnieyes.pages.dev/logo.svg" width="72" alt="Omni Eyes logo">
 
 A real-time earth-intelligence globe built on Cesium. Live aircraft, vessels, satellites, and fire data on one map, extended from the open-source God's Eye viewer with live public CCTV cameras from Indonesian cities, streamed as HLS inside the globe.
 
 `JavaScript` · `Cesium` · `Vite` · `HLS.js` · `Cloudflare Workers`
 
-### [VoltWorks Power](https://darthsandd.github.io/voltworks-power/) · [source](https://github.com/DarthSandD/voltworks-power)
+### [VoltWorks Power](https://voltworks-power.pages.dev/) · [source](https://github.com/DarthSandD/voltworks-power)
 
-![VoltWorks Power cover](https://darthsandd.github.io/voltworks-power/cover.png)
+![VoltWorks Power cover](https://voltworks-power.pages.dev/cover.png)
 
 The electrical engineer's daily driver, in a browser tab. Voltage drop, cable sizing, transformer sizing, fault levels, and arc-flash to IEEE 1584, plus interactive single-line diagrams that save your work. No install, no backend, works offline.
 
 `HTML` · `JavaScript`
 
-### [MEP Suits](https://darthsandd.github.io/mep-suits/) · [source](https://github.com/DarthSandD/mep-suits)
+### [MEP Suits](https://mepsuits.pages.dev/) · [source](https://github.com/DarthSandD/mep-suits)
 
-![MEP Suits banner](https://darthsandd.github.io/mep-suits/docs/assets/mep-suits-banner.png)
+![MEP Suits banner](https://mepsuits.pages.dev/docs/assets/mep-suits-banner.png)
 
 Eight building-services calculators (HVAC, duct, electrical, plumbing, and more) with live recalculation as you type, and a 3D system viewer with real equipment models where you can switch components and watch the system change. One page, no signup, works on site.
 
@@ -76,9 +76,9 @@ A small formatter for Universitas Terbuka students: paste a tuton discussion or 
 
 `Python` · `Render`
 
-### [Signal Desk](https://darthsandd.github.io/signal-desk/) · [source](https://github.com/DarthSandD/signal-desk)
+### [Signal Desk](https://darren-signaldesk.pages.dev/) · [source](https://github.com/DarthSandD/signal-desk)
 
-<img src="https://darthsandd.github.io/signal-desk/icon-512.png" width="72" alt="Signal Desk icon">
+<img src="https://darren-signaldesk.pages.dev/icon-512.png" width="72" alt="Signal Desk icon">
 
 Live forex, crypto, and stock signals with plain BUY/SELL calls instead of chart archaeology. An installable PWA with a dark-first UI.
 
@@ -98,15 +98,15 @@ A visual library for how AI systems fit together: diagrams, tradeoffs, runnable 
 
 ## Free reference guides
 
-### [AutoCAD Hotkey and Command Guide](https://darthsandd.github.io/autocad-guide/) · [source](https://github.com/DarthSandD/autocad-guide)
+### [AutoCAD Hotkey and Command Guide](https://autocad-guide.pages.dev/) · [source](https://github.com/DarthSandD/autocad-guide)
 
 ![AutoCAD guide slide](https://raw.githubusercontent.com/DarthSandD/autocad-guide/main/instagram/_stage/slide-1.png)
 
 90+ commands across 8 categories. Search by command, hotkey, or plain intent, and each clip starts at the exact second the command is explained.
 
-### [Autodesk Inventor Complete Guide](https://darthsandd.github.io/inventor-guide/) · [source](https://github.com/DarthSandD/inventor-guide)
+### [Autodesk Inventor Complete Guide](https://inventor-guide.pages.dev/) · [source](https://github.com/DarthSandD/inventor-guide)
 
-![Inventor guide screenshot](https://darthsandd.github.io/inventor-guide/linkedin/shots/crop-desktop.png)
+![Inventor guide screenshot](https://inventor-guide.pages.dev/linkedin/shots/crop-desktop.png)
 
 Inventor from first sketch to assemblies, sheet metal, and iLogic, in one searchable page. Every topic is tagged by level and carries a tutorial clip.
 
